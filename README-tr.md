@@ -40,5 +40,5 @@ Oturumunun güncel kalması için, betik envanter sayfasını varsayılan olarak
 
 </br>
 
-#### ℹ Example Livestream Watching Setup for AFK Drop Claiming
+#### ℹ AFK Drop Toplamak için Örnek Canlı Yayın İzleme
 <img width=auto src="https://github.com/user-attachments/assets/56f83312-dcfa-4a1e-925a-1f1c16ee9766" />
